@@ -15,5 +15,5 @@ Exploratory Analysis of Covid Data in Brazil
 <br>
 <br>
 <p align="center">
- <img alt="Coronavirus" width="80%" src="img/banner.png" >
+ <img alt="Coronavirus" width="100%" src="img/banner.png" >
 </p>
