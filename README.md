@@ -6,7 +6,7 @@ Exploratory Analysis of Covid Data in Brazil
 
 <p align="justify">Este projeto aborda informações sobre o Covid-19, uma doença infecciosa causada pelo coronavírus SARS-CoV-2, que se espalhou rapidamente pelo mundo desde dezembro de 2019. Os sintomas variam de leves a graves, mas incluem febre, tosse seca e falta de ar, entre outros. Embora as vacinas tenham sido desenvolvidas e distribuídas em vários países, o Covid-19 ainda representa uma ameaça significativa à saúde pública global.</p> 
 
-<p align="right"><font size="1"><a href="https://br.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_7367993.htm?query=corona%20virus#from_view=detail_alsolike">Imagem de articular</a> no Freepik</p></font>
+<p align="right"<a href="https://br.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_7367993.htm?query=corona%20virus#from_view=detail_alsolike">><font size="1">Imagem de articular</a> no Freepik</p></font>
 
 <img alt="Coronavirus" width="100%" src="https://img.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_1314-2644.jpg?size=626&ext=jpg&ga=GA1.2.973149043.1679402308&semt=sph">
 
