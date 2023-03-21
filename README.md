@@ -18,7 +18,7 @@ Exploratory Analysis of Covid Data in Brazil
 
 **Palavras-Chave:** Epidemiologia; Covid-19; Infecções por Coronavírus; Saúde Pública, Segurança Pública.
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p align="center">
  <img alt="banner" width="100%" src="img/banner.png" >
