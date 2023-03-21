@@ -3,8 +3,8 @@
 # Covid-19_Data_Analysis
 Exploratory Analysis of Covid Data in Brazil
 
-<br>
-###**RESUMO**
+
+### **RESUMO**
 <p align="justify">Este projeto aborda informações sobre o Covid-19, uma doença infecciosa causada pelo coronavírus SARS-CoV-2, que se espalhou rapidamente pelo mundo desde dezembro de 2019. Os sintomas variam de leves a graves, mas incluem febre, tosse seca e falta de ar, entre outros. Embora as vacinas tenham sido desenvolvidas e distribuídas em vários países, o Covid-19 ainda representa uma ameaça significativa à saúde pública global.</p> 
 
 <p align="right"<font size=1><a href="https://br.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_7367993.htm#query=covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars&position=2&from_view=search&track=sph">Imagem de articular</a> no Freepik</p></font>
