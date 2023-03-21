@@ -2,9 +2,9 @@
 
 # Covid-19_Data_Analysis
 Exploratory Analysis of Covid Data in Brazil
-<br><br>
+<br><br><br>
 
-<p align="center"><size=3><b>RESUMO</b></size></p>
+<p align="center"><size=5><b>RESUMO</b></size></p>
  
 <p align="justify">Este projeto aborda informações sobre o Covid-19, uma doença infecciosa causada pelo coronavírus SARS-CoV-2, que se espalhou rapidamente pelo mundo desde dezembro de 2019. Os sintomas variam de leves a graves, mas incluem febre, tosse seca e falta de ar, entre outros. Embora as vacinas tenham sido desenvolvidas e distribuídas em vários países, o Covid-19 ainda representa uma ameaça significativa à saúde pública global.</p> 
 
