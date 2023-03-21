@@ -9,11 +9,11 @@ Exploratory Analysis of Covid Data in Brazil
 <p align="right"<font size=1><a href="https://br.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_7367993.htm#query=covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars&position=2&from_view=search&track=sph">Imagem de articular</a> no Freepik</p></font>
 
 <p align="center">
-<img alt="Coronavirus" width="90%" src="https://img.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_1314-2644.jpg?size=626&ext=jpg&ga=GA1.2.973149043.1679402308&semt=sph">
+<img alt="Coronavirus" width="100%" src="https://img.freepik.com/vetores-gratis/covid-19-projeto-de-surto-de-coronavirus-com-celula-de-virus-em-vista-microscopica-sobre-fundo-azul-modelo-de-ilustracao-no-tema-epidemico-de-sars-perigoso-para-banner-ou-panfleto-promocional_1314-2644.jpg?size=626&ext=jpg&ga=GA1.2.973149043.1679402308&semt=sph">
 </p>
 
 <p align="justify">O objetivo geral deste estudo é analisar e interpretar dados relacionados ao Covid-19, incluindo a disseminação do vírus em diferentes regiões geográficas e grupos demográficos, a transmissão do vírus e padrões de disseminação, os países com o maior número de casos, mortalidade, testes realizados e vacinações, a relação entre a taxa de casos e a taxa de mortalidade em diferentes países, as políticas de mitigação e as taxas de casos e mortes em diferentes países, a taxa de vacinação e seu impacto na taxa de casos e mortes em diferentes países, grupos de idade mais afetados pela pandemia em diferentes países, como as variantes da COVID-19 estão afetando a propagação da doença em diferentes países, quais países tiveram maior sucesso na redução da propagação da doença e como conseguiram fazê-lo, e como a pandemia afetou a economia de diferentes países.</p>
 
 <p align="center">
- <img alt="Coronavirus" width="90%" src="img/banner.png" >
+ <img alt="Coronavirus" width="100%" src="img/banner.png" >
 </p>
